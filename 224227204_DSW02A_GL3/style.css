@@ -1,0 +1,38 @@
+
+/*Question 1*/
+/*
+body{
+font-family: Arial;
+margin: 40px;
+}
+
+input{
+padding: 6px;
+margin: 5px;
+}
+
+button{
+padding: 8px 15px;
+background-color: grey;
+color: white;
+border: none;
+cursor: pointer;
+}
+*/
+
+/*Question 2*/
+
+li:nth-child(odd){
+background-color: white;
+}
+
+
+.removed{
+color: red;
+font-weight: bold;
+}
+
+.count{
+color: green;
+}
+
